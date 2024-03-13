@@ -1,6 +1,6 @@
 <!DOCTYPE HTML>
 <html>
-<head><title>Hai Grace</title>
+<head><title>Hai NAMA PASANGAN</title>
 <!-- Created By Lucky -->
 <script>alert ('hai')
 alert ('Ini isi hatiku yang sesungguhnya')</script>
@@ -12,13 +12,13 @@ function tb5_makeArray(n){
 }
  
 tb5_messages = new tb5_makeArray(7);
-tb5_messages[0] = "Hay Grace";
+tb5_messages[0] = "Hay NAMA PASANGAN";
 tb5_messages[1] = "Aku Mau Kamu Tau";
 tb5_messages[2] = "Aku Sayang Sama Kamu";
-tb5_messages[3] = "Aku Serius Grace";
+tb5_messages[3] = "Aku Serius NAMA PASANGAN";
 tb5_messages[4] = "Kamu Mau Ngga Jadi Pacar ku";
 tb5_messages[5] = "Aku berharap kamu menerimanya";
-tb5_messages[6] = "I Love You Grace!!!";
+tb5_messages[6] = "I Love You NAMA PASANGAN!!!";
 tb5_rptType = 'infinite';
 tb5_rptNbr = 20;
 tb5_speed = 30;
